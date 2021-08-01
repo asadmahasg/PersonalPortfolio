@@ -373,10 +373,10 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .java::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .css::before{
-    width: 66%;
+    width: 85%;
 }
 .skills-content .right .python::before{
     width: 50%;
@@ -385,7 +385,7 @@ section .title::after{
     width: 75%;
 }
 .skills-content .right .cpp::before{
-    width: 80%;
+    width: 90%;
 }
 
 /* projects section styling */
