@@ -550,6 +550,12 @@ section .title::after{
   background: none;
 }
 
+.icon-1{
+    text-align: center;
+}
+.icon-1 .logo{
+    margin: 20px;
+}
 /* footer section styling */
 footer{
     background: #111;
