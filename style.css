@@ -382,7 +382,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .firebase::before{
-    width: 75%;
+    width: 70%;
 }
 .skills-content .right .cpp::before{
     width: 90%;
